@@ -1,90 +1,90 @@
 ((a,b)=>{a[b]=a[b]||{}})(self,"$__dart_deferred_initializers__")
-$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={aiX:function aiX(){},arg:function arg(){},Zs:function Zs(d,e,f,g,h){var _=this
+$__dart_deferred_initializers__.current=function(a,b,c,$){var A,C,B={aiX:function aiX(){},arg:function arg(){},Zr:function Zr(d,e,f,g,h){var _=this
 _.d=d
 _.e=e
 _.a=f
 _.b=g
-_.c=h},aur:function aur(){},aHh:function aHh(d){this.b=d},aHg:function aHg(d){this.a=d
+_.c=h},aus:function aus(){},aHi:function aHi(d){this.b=d},aHh:function aHh(d){this.a=d
 this.b=$},a3V:function a3V(d,e){var _=this
 _.c=_.b=_.a=$
 _.d=null
 _.f=d
-_.r=e},aJ0:function aJ0(d){this.a=d},aJ1:function aJ1(){},aeA:function aeA(){},
+_.r=e},aJ1:function aJ1(d){this.a=d},aJ2:function aJ2(){},aeA:function aeA(){},
 alD(){var x=0,w=A.j(y.H)
 var $async$alD=A.e(function(d,e){if(d===1)return A.f(e,w)
 while(true)switch(x){case 0:x=2
-return A.c(B.aJ4(),$async$alD)
+return A.c(B.aJ5(),$async$alD)
 case 2:return A.h(null,w)}})
 return A.i($async$alD,w)},
-aJ4(){var x=0,w=A.j(y.H)
-var $async$aJ4=A.e(function(d,e){if(d===1)return A.f(e,w)
+aJ5(){var x=0,w=A.j(y.H)
+var $async$aJ5=A.e(function(d,e){if(d===1)return A.f(e,w)
 while(true)switch(x){case 0:x=2
-return A.c(B.aJ6("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhpeG1scXVocHp0eWZta3RobHVvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTg3ODY1NzIsImV4cCI6MjA3NDM2MjU3Mn0.Yy-0AHbkMWnd1l8jitKu67gbvyueHLaXYIYPmC0vJiQ",!1,"https://xixmlquhpztyfmkthluo.supabase.co"),$async$aJ4)
+return A.c(B.aJ7("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InhpeG1scXVocHp0eWZta3RobHVvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTg3ODY1NzIsImV4cCI6MjA3NDM2MjU3Mn0.Yy-0AHbkMWnd1l8jitKu67gbvyueHLaXYIYPmC0vJiQ",!1,"https://xixmlquhpztyfmkthluo.supabase.co"),$async$aJ5)
 case 2:return A.h(null,w)}})
-return A.i($async$aJ4,w)},
-bue(d){var x=0,w=A.j(y.y),v
-var $async$bue=A.e(function(e,f){if(e===1)return A.f(f,w)
+return A.i($async$aJ5,w)},
+bus(d){var x=0,w=A.j(y.y),v
+var $async$bus=A.e(function(e,f){if(e===1)return A.f(f,w)
 while(true)switch(x){case 0:v=$.aig().getItem(d)!=null
 x=1
 break
 case 1:return A.h(v,w)}})
-return A.i($async$bue,w)},
-btY(d){var x=0,w=A.j(y.T),v
-var $async$btY=A.e(function(e,f){if(e===1)return A.f(f,w)
+return A.i($async$bus,w)},
+bub(d){var x=0,w=A.j(y.T),v
+var $async$bub=A.e(function(e,f){if(e===1)return A.f(f,w)
 while(true)switch(x){case 0:v=$.aig().getItem(d)
 x=1
 break
 case 1:return A.h(v,w)}})
-return A.i($async$btY,w)},
-but(d){var x=0,w=A.j(y.H),v
-var $async$but=A.e(function(e,f){if(e===1)return A.f(f,w)
+return A.i($async$bub,w)},
+buH(d){var x=0,w=A.j(y.H),v
+var $async$buH=A.e(function(e,f){if(e===1)return A.f(f,w)
 while(true)switch(x){case 0:v=$.aig().removeItem(d)
 x=1
 break
 case 1:return A.h(v,w)}})
-return A.i($async$but,w)},
-buq(d,e){var x=0,w=A.j(y.H),v
-var $async$buq=A.e(function(f,g){if(f===1)return A.f(g,w)
+return A.i($async$buH,w)},
+buE(d,e){var x=0,w=A.j(y.H),v
+var $async$buE=A.e(function(f,g){if(f===1)return A.f(g,w)
 while(true)switch(x){case 0:v=$.aig().setItem(d,e)
 x=1
 break
 case 1:return A.h(v,w)}})
-return A.i($async$buq,w)},
-aJ6(a2,a3,a4){var x=0,w=A.j(y.k),v,u,t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,a0,a1
-var $async$aJ6=A.e(function(a5,a6){if(a5===1)return A.f(a6,w)
+return A.i($async$buE,w)},
+aJ7(a2,a3,a4){var x=0,w=A.j(y.k),v,u,t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,a0,a1
+var $async$aJ7=A.e(function(a5,a6){if(a5===1)return A.f(a6,w)
 while(true)switch(x){case 0:a1=$.A()
-if(a1.a){$.bvk().bD(C.f9,"Supabase is already initialized. Skipping reinitialization.",null,null)
+if(a1.a){$.bvy().bD(C.f9,"Supabase is already initialized. Skipping reinitialization.",null,null)
 v=a1
 x=1
 break}a1.d=!1
-u=$.bvk()
+u=$.bvy()
 u.bD(C.f8,"Initialize Supabase v2.10.1",null,null)
-t=new B.aHg(new A.b1(new A.an($.aA,y.U),y.h))
+t=new B.aHh(new A.b1(new A.an($.aB,y.U),y.h))
 t.Hw()
-s=D.W6.aNh(t)
-if(s.d==null)s=s.aNf(new B.aHh("sb-"+C.c.ga9(A.d4(a4,0,null).gkN().split("."))+"-auth-token"))
+s=D.Wa.aNh(t)
+if(s.d==null)s=s.aNf(new B.aHi("sb-"+C.c.ga9(A.d4(a4,0,null).gkN().split("."))+"-auth-token"))
 t=y.N
-r=A.d1(C.a8f,t,t)
-q=A.hP("supabase.supabase")
+r=A.d1(C.a8g,t,t)
+q=A.hQ("supabase.supabase")
 p=a4+"/rest/v1"
-o=A.cM(a4+"/realtime/v1","http","ws")
+o=A.cN(a4+"/realtime/v1","http","ws")
 n=a4+"/auth/v1"
 m=a4+"/storage/v1"
 l=a4+"/functions/v1"
-k=A.d1($.bEe(),t,t)
+k=A.d1($.bEr(),t,t)
 k.M(0,r)
-r=new A.aLK()
+r=new A.aLL()
 r.dP()
-j=new A.a3W(a2,C.OV,p,o,n,m,l,k,null,r,null,new A.aly(),q)
+j=new A.a3W(a2,C.OZ,p,o,n,m,l,k,null,r,null,new A.aly(),q)
 i=s.c
 h=A.d1(k,t,t)
 h.n(0,"apikey",a2)
 h.n(0,"Authorization","Bearer "+a2)
 g=y.D
-f=A.bqI(!1,g)
-g=A.bqI(!0,g)
-e=A.hP("supabase.auth")
-d=A.d1(C.a8g,t,t)
+f=A.bqW(!1,g)
+g=A.bqW(!0,g)
+e=A.hQ("supabase.auth")
+d=A.d1(C.a8h,t,t)
 d.M(0,h)
 h=new A.ar5(n,d,null,f,g,s.b,i,e)
 h.w=!0
@@ -92,114 +92,114 @@ e.bD(C.f8,"Initialize GoTrueClient v2.15.0 with url: "+n+", autoRefreshToken: tr
 e.bD(C.bH,"Initialize with headers: "+d.j(0),null,null)
 i=new A.ar3(n,d,null)
 i.ga0X()
-i.e!==$&&A.bu()
+i.e!==$&&A.bv()
 i.e=new A.ar4()
 h.a=i
 h.gq5()
-h.b!==$&&A.bu()
+h.b!==$&&A.bv()
 h.b=new A.ard()
 h.vr()
 h.aAZ()
 j.z=h
-i=A.buD()
+i=A.buR()
 h=b.G.AbortController
 i=new A.vD(new h())
-i=j.y=new A.X0(i,a2,j.gatW())
+i=j.y=new A.X_(i,a2,j.gatW())
 h=A.d1(k,t,t)
-g=A.hP("supabase.postgrest")
-f=A.d1(C.a8e,t,t)
+g=A.hQ("supabase.postgrest")
+f=A.d1(C.a8f,t,t)
 f.M(0,h)
 g.bD(C.f8,"Initialize PostgrestClient with url: "+p+", schema: public",null,null)
 g.bD(C.bH,"Initialize with headers: "+h.j(0),null,null)
-j.ax!==$&&A.bu()
-j.ax=new A.aAu(p,f,"public",i,r,!0,g)
+j.ax!==$&&A.bv()
+j.ax=new A.aAv(p,f,"public",i,r,!0,g)
 p=A.d1(k,t,t)
-h=A.hP("supabase.functions")
-g=A.d1(C.a8h,t,t)
+h=A.hQ("supabase.functions")
+g=A.d1(C.a8i,t,t)
 g.M(0,p)
 h.bD(C.f8,"Initialize FunctionsClient v2.4.4 with url: "+l,null,null)
 h.bD(C.bH,"Initialize with headers: "+p.j(0),null,null)
-j.Q!==$&&A.bu()
+j.Q!==$&&A.bv()
 j.Q=new A.aqh(l,g,i,r,!0,h)
 r=A.d1(k,t,t)
-p=A.hP("supabase.storage")
-l=A.d1(C.a8j,t,t)
+p=A.hQ("supabase.storage")
+l=A.d1(C.a8k,t,t)
 l.M(0,r)
-l=new A.aJ5(0,p,m,l)
-l.c=new A.ap_(i,A.hP("supabase.storage"))
+l=new A.aJ6(0,p,m,l)
+l.c=new A.ap_(i,A.hQ("supabase.storage"))
 p.bD(C.f8,"Initialize SupabaseStorageClient v2.4.1 with url: "+m+", retryAttempts: 0",null,null)
 p.bD(C.bH,"Initialize with headers: "+r.j(0),null,null)
-j.as!==$&&A.bu()
+j.as!==$&&A.bv()
 j.as=l
 l=y.z
 r=A.I(["apikey",a2],t,l)
 t=A.z(t,t)
 t.n(0,"apikey",a2)
 t.M(0,k)
-t=A.bNQ(o,null,t,i,null,r,C.kI)
-j.at!==$&&A.bu()
+t=A.bO2(o,null,t,i,null,r,C.kI)
+j.at!==$&&A.bv()
 j.at=t
 q.bD(C.f8,"Initialize SupabaseClient v2.9.1 with no custom access token",null,null)
 j.aAi()
 a1.b=j
 $.aw.ci$.push(a1)
 a1.a=!0
-a0=a1.c=new B.a3V($.bEc(),A.hP("supabase.supabase_flutter"))
+a0=a1.c=new B.a3V($.bEp(),A.hQ("supabase.supabase_flutter"))
 x=3
-return A.c(a0.qZ(s),$async$aJ6)
-case 3:a1.e=A.bwj(a0.yF(),null,l)
+return A.c(a0.qZ(s),$async$aJ7)
+case 3:a1.e=A.bwx(a0.yF(),null,l)
 u.bD(C.f9,"***** Supabase init completed *****",null,null)
 v=a1
 x=1
 break
 case 1:return A.h(v,w)}})
-return A.i($async$aJ6,w)}},D
+return A.i($async$aJ7,w)}},D
 A=c[0]
 C=c[2]
 B=a.updateHolder(c[3],B)
 D=c[6]
 B.aiX.prototype={}
 B.arg.prototype={}
-B.Zs.prototype={
+B.Zr.prototype={
 aa0(d,e){var x=d==null?this.d:d,w=e==null?this.b:e
-return new B.Zs(x,!0,!0,w,this.c)},
+return new B.Zr(x,!0,!0,w,this.c)},
 aNh(d){return this.aa0(null,d)},
 aNf(d){return this.aa0(d,null)}}
-B.aur.prototype={}
-B.aHh.prototype={
+B.aus.prototype={}
+B.aHi.prototype={
 dP(){var x=0,w=A.j(y.H)
 var $async$dP=A.e(function(d,e){if(d===1)return A.f(e,w)
 while(true)switch(x){case 0:return A.h(null,w)}})
 return A.i($async$dP,w)},
 KV(){var x=0,w=A.j(y.y),v,u=this
 var $async$KV=A.e(function(d,e){if(d===1)return A.f(e,w)
-while(true)switch(x){case 0:v=B.bue(u.b)
+while(true)switch(x){case 0:v=B.bus(u.b)
 x=1
 break
 case 1:return A.h(v,w)}})
 return A.i($async$KV,w)},
 Je(){var x=0,w=A.j(y.T),v,u=this
 var $async$Je=A.e(function(d,e){if(d===1)return A.f(e,w)
-while(true)switch(x){case 0:v=B.btY(u.b)
+while(true)switch(x){case 0:v=B.bub(u.b)
 x=1
 break
 case 1:return A.h(v,w)}})
 return A.i($async$Je,w)},
 W1(){var x=0,w=A.j(y.H),v=this
 var $async$W1=A.e(function(d,e){if(d===1)return A.f(e,w)
-while(true)switch(x){case 0:B.but(v.b)
+while(true)switch(x){case 0:B.buH(v.b)
 return A.h(null,w)}})
 return A.i($async$W1,w)},
-aUY(d){return B.buq(this.b,d)}}
-B.aHg.prototype={
+aUY(d){return B.buE(this.b,d)}}
+B.aHh.prototype={
 Hw(){var x=0,w=A.j(y.H),v=this,u
 var $async$Hw=A.e(function(d,e){if(d===1)return A.f(e,w)
-while(true)switch(x){case 0:if($.aw==null)A.aLF()
+while(true)switch(x){case 0:if($.aw==null)A.aLG()
 $.aw.toString
 x=2
-return A.c(A.k2(),$async$Hw)
+return A.c(A.k3(),$async$Hw)
 case 2:u=e
-v.b!==$&&A.bu()
+v.b!==$&&A.bv()
 v.b=u
 v.a.fH()
 return A.h(null,w)}})
@@ -251,7 +251,7 @@ m=$.A()
 o=m.b
 o===$&&A.a()
 o=o.gag().z
-t.d=new A.fa(o,o.$ti.i("fa<1>")).yl(new B.aJ0(t),new B.aJ1())
+t.d=new A.fb(o,o.$ti.i("fb<1>")).yl(new B.aJ1(t),new B.aJ2())
 x=2
 return A.c(t.a.dP(),$async$qZ)
 case 2:s=!0
@@ -275,14 +275,14 @@ case 10:v=9
 l=u.pop()
 q=A.F(l)
 p=A.b3(l)
-t.r.bD(C.cI,"Error while setting initial session",q,p)
+t.r.bD(C.cK,"Error while setting initial session",q,p)
 x=12
 break
 case 9:x=1
 break
 case 12:case 8:case 4:if(s){m=$.A().b
 m===$&&A.a()
-m.gag().kU(C.fM)}$.aw.ci$.push(t)
+m.gag().kU(C.fN)}$.aw.ci$.push(t)
 x=14
 return A.c(t.II(),$async$qZ)
 case 14:return A.h(null,w)
@@ -313,11 +313,11 @@ break
 case 3:v=2
 k=u.pop()
 m=A.F(k)
-if(m instanceof A.mb){q=m
+if(m instanceof A.mc){q=m
 p=A.b3(k)
-t.r.bD(C.cI,q.a,q,p)}else{o=m
+t.r.bD(C.cK,q.a,q,p)}else{o=m
 n=A.b3(k)
-t.r.bD(C.cI,"Error while recovering session",o,n)}x=5
+t.r.bD(C.cK,"Error while recovering session",o,n)}x=5
 break
 case 2:x=1
 break
@@ -343,12 +343,12 @@ case 2:return A.h(null,w)}})
 return A.i($async$II,w)},
 w6(){var x=0,w=A.j(y.H),v,u=2,t=[],s=this,r,q,p,o,n,m,l,k,j,i,h
 var $async$w6=A.e(function(d,e){if(d===1){t.push(e)
-x=u}while(true)switch(x){case 0:if($.bAa){x=1
-break}$.bAa=!0
+x=u}while(true)switch(x){case 0:if($.bAn){x=1
+break}$.bAn=!0
 u=4
 r=null
 u=8
-k=A.h_(s.f.X1(),y.z)
+k=A.h0(s.f.X1(),y.z)
 x=11
 return A.c(k,$async$w6)
 case 11:r=e
@@ -359,7 +359,7 @@ case 8:u=7
 i=t.pop()
 x=y.r.b(A.F(i))?12:14
 break
-case 12:k=$.bEb().rA()
+case 12:k=$.bEo().rA()
 x=15
 return A.c(k,$async$w6)
 case 15:r=e
@@ -380,15 +380,15 @@ break
 case 4:u=3
 h=t.pop()
 k=A.F(h)
-if(k instanceof A.q_){q=k
+if(k instanceof A.q0){q=k
 p=A.b3(h)
 k=q.b
 if(k==null)k=q
-s.r.bD(C.cI,"Error while receiving deeplink",k,p)}else if(y.Y.b(k)){o=k
+s.r.bD(C.cK,"Error while receiving deeplink",k,p)}else if(y.Y.b(k)){o=k
 n=A.b3(h)
-s.r.bD(C.cI,"Error while receiving deeplink",o.guJ(),n)}else{m=k
+s.r.bD(C.cK,"Error while receiving deeplink",o.guJ(),n)}else{m=k
 l=A.b3(h)
-s.r.bD(C.cI,"Error while receiving deeplink",m,l)}x=6
+s.r.bD(C.cK,"Error while receiving deeplink",m,l)}x=6
 break
 case 3:x=2
 break
@@ -400,10 +400,10 @@ avG(d){var x=0,w=A.j(y.H),v,u=2,t=[],s=this,r,q,p,o,n,m,l,k
 var $async$H7=A.e(function(e,f){if(e===1){t.push(f)
 x=u}while(true)switch(x){case 0:if(C.b.m(d.gk6(),"access_token")){n=s.b
 n===$&&A.a()
-n=n===D.MA}else n=!1
+n=n===D.MD}else n=!1
 if(!n){if(d.gfz().aG("code")){n=s.b
 n===$&&A.a()
-n=n===C.i5}else n=!1
+n=n===C.i9}else n=!1
 n=n||C.b.m(d.gk6(),"error_description")}else n=!0
 if(!n){x=1
 break}n=s.r
@@ -420,13 +420,13 @@ break
 case 4:u=3
 k=t.pop()
 m=A.F(k)
-if(m instanceof A.mb){r=m
+if(m instanceof A.mc){r=m
 q=A.b3(k)
 n=$.A().b
 n===$&&A.a()
 n.gag().E5(r,q)}else{p=m
 o=A.b3(k)
-n.bD(C.cI,"Error while getSessionFromUrl",p,o)}x=6
+n.bD(C.cK,"Error while getSessionFromUrl",p,o)}x=6
 break
 case 3:x=2
 break
@@ -435,33 +435,33 @@ case 2:return A.f(t.at(-1),w)}})
 return A.i($async$H7,w)}}
 B.aeA.prototype={}
 var z=a.updateTypes([])
-B.aJ0.prototype={
+B.aJ1.prototype={
 $1(d){var x=this.a,w=d.b
 if(w!=null){x=x.a
 x===$&&A.a()
-x.aUY(C.ap.ug(w.d9(),null))}else if(d.a===C.fN){x=x.a
+x.aUY(C.ap.ug(w.d9(),null))}else if(d.a===C.fO){x=x.a
 x===$&&A.a()
 x.W1()}},
-$S:79}
-B.aJ1.prototype={
+$S:73}
+B.aJ2.prototype={
 $2(d,e){},
-$S:96};(function inheritance(){var x=a.mixin,w=a.inherit,v=a.inheritMany
-w(B.aiX,A.WP)
-v(A.N,[B.arg,B.aur,B.aeA])
-w(B.Zs,A.aj9)
-w(B.aHh,B.aur)
-w(B.aHg,B.arg)
+$S:88};(function inheritance(){var x=a.mixin,w=a.inherit,v=a.inheritMany
+w(B.aiX,A.WO)
+v(A.N,[B.arg,B.aus,B.aeA])
+w(B.Zr,A.aj9)
+w(B.aHi,B.aus)
+w(B.aHh,B.arg)
 w(B.a3V,B.aeA)
-w(B.aJ0,A.nx)
-w(B.aJ1,A.B8)
+w(B.aJ1,A.nz)
+w(B.aJ2,A.B5)
 x(B.aeA,A.dQ)})()
-A.btv(b.typeUniverse,JSON.parse('{"a3V":{"dQ":[]}}'))
-var y=(function rtii(){var x=A.aB
-return{D:x("rj"),Y:x("fS"),r:x("lw"),N:x("n"),k:x("NS"),h:x("b1<~>"),U:x("an<~>"),y:x("C"),z:x("@"),T:x("n?"),H:x("~")}})();(function constants(){D.MA=new A.X_(0,"implicit")
-D.W6=new B.Zs(null,!0,!0,null,C.i5)})();(function staticFields(){$.bAa=!1})();(function lazyInitializers(){var x=a.lazyFinal
-x($,"bXC","bEc",()=>{var w=new B.aiX()
-w.vG($.bq0())
+A.btJ(b.typeUniverse,JSON.parse('{"a3V":{"dQ":[]}}'))
+var y=(function rtii(){var x=A.aC
+return{D:x("rj"),Y:x("fT"),r:x("lw"),N:x("n"),k:x("NR"),h:x("b1<~>"),U:x("an<~>"),y:x("C"),z:x("@"),T:x("n?"),H:x("~")}})();(function constants(){D.MD=new A.WZ(0,"implicit")
+D.Wa=new B.Zr(null,!0,!0,null,C.i9)})();(function staticFields(){$.bAn=!1})();(function lazyInitializers(){var x=a.lazyFinal
+x($,"bXP","bEp",()=>{var w=new B.aiX()
+w.vG($.bqe())
 return w})
-x($,"c19","aig",()=>A.a9(A.a9(A.m7(),"window"),"localStorage"))
-x($,"c1b","bvk",()=>A.hP("supabase.supabase_flutter"))})()};
-(a=>{a["2jNtUWa/lDEJfl302PagwIcSm3E="]=a.current})($__dart_deferred_initializers__);
+x($,"c1m","aig",()=>A.a9(A.a9(A.m7(),"window"),"localStorage"))
+x($,"c1o","bvy",()=>A.hQ("supabase.supabase_flutter"))})()};
+(a=>{a["0nFUhfLNJ/fT2/u78CKa79uSOTg="]=a.current})($__dart_deferred_initializers__);
